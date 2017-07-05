@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "74037008790",
+    "firebase_url": "https://mooc-a2c81.firebaseio.com",
+    "project_id": "mooc-a2c81",
+    "storage_bucket": "mooc-a2c81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74037008790:android:3d1397b1af464686",
+        "android_client_info": {
+          "package_name": "uk.ac.reading.sis05kol.mooc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74037008790-dsnb4nu0lorcm86u9b8l4v9qo9d8htcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.ac.reading.sis05kol.mooc",
+            "certificate_hash": "6e9cdef034ef5c5defa644f64c79286893d940ef"
+          }
+        },
+        {
+          "client_id": "74037008790-spa7qiv63hovjdoeo7580h7i92rd9h8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcBz-7CDTajuFwu7C6lcK0t2zeyeDH1ZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74037008790-spa7qiv63hovjdoeo7580h7i92rd9h8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
